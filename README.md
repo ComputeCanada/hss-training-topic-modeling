@@ -24,5 +24,5 @@ pip install nltk gensim==3.8.3 spacy pyLDAvis==3.3.1
 To install the English vocabulary:
 ```Bash
 # Prepend the command with a "!" if you run it in a notebook cell
-python -m spacy download en_core_web_sm
+python -m spacy download fr_core_news_sm
 ```
