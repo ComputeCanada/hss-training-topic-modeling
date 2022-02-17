@@ -4,7 +4,6 @@ In the [`topic_modeling.ipynb`](topic_modeling.ipynb) notebook, we are doing top
 ## Required Software
 * [Java (JDK >= 16)](https://www.oracle.com/java/technologies/downloads/): Java SE Development Kit
 * [Apache Ant (version >= 1.10.10)](https://ant.apache.org/bindownload.cgi): supplies a number of built-in tasks allowing to compile, assemble, test and run Java applications.
-* [MALLET 2.0.8](https://mallet.cs.umass.edu/download.php): MAchine Learning for LanguagE Toolkit
 
 ## Required Python packages
 For this notebook, required Python packages are:
